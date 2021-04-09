@@ -1,5 +1,8 @@
 # ⚠ This project has been discontinued. [more Info](https://github.com/efidroid/projectmanagement/issues/152#issuecomment-562019779) ⚠
 
+if you want to compile the old (working) Lk based code, use this branch:
+https://github.com/efidroid/manifest/tree/master-legacy
+
 # Projectmanagement
 
 [Issues](https://github.com/efidroid/projectmanagement/issues)
